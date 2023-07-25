@@ -1,16 +1,10 @@
 # Smart-Home-Surveilance-System-Using-AI
 
-  This is a real-time face recognition system that reads a video from a camera connected to the computer running the software, detects any face
-  
-  present in front of the camera, and then checks if this face is present in a set of face images in a database using face recognition technique.
-  
-  The software is divided into two parts: face detection and face recognition. If unknown person was detected then alert will send to authorized 
-  
-  user and Alarm will ring.
+  This is a real-time face recognition system that reads a video from a camera connected to the computer running the software, detects any face present in front of the camera, and then checks if this face is present in a set of face images in a database using face recognition technique. The software is divided into two parts: face detection and face recognition. If unknown person was detected then alert will send to authorized user and Alarm will ring.
 
   
 
-  How to run this project ?
+  **How to run this project ?**
 
 i. Keep harcascade File in the same folder.
 
