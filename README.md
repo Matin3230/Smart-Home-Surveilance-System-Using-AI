@@ -21,6 +21,10 @@ f. The system can provide real-time alerts to security personnel, enabling them 
 
 
 
+![image](https://github.com/Matin3230/Smart-Home-Surveilance-System-Using-AI/assets/85051013/12283f71-f8da-4d9a-9ec5-6a5606641062)
+
+
+
 
   **How to run this project ?**
 
@@ -38,9 +42,6 @@ v. Then Run File face_train.py to train the model.
 vi. Model data is trained and to validate the person is from home or not run file face_recognizer.py
 
 
-
-
-![image](https://github.com/Matin3230/Smart-Home-Surveilance-System-Using-AI/assets/85051013/12283f71-f8da-4d9a-9ec5-6a5606641062)
 
 
 
