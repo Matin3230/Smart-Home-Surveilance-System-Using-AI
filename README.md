@@ -1,18 +1,14 @@
 # Smart-Home-Surveilance-System-Using-AI
 
-  This is a real-time face recognition system that reads a video from a camera
-  
-connected to the computer running the software, detects any face present in 
+  This is a real-time face recognition system that reads a video from a camera connected to the computer running the software, detects any face present in 
 
-front of the camera, and then checks if this face is present in a set of face
+front of the camera, and then checks if this face is present in a set of face images in a database using face recognition technique. The software is divided 
 
-images in a database using face recognition technique. The software is divided 
+into two parts: face detection and face recognition. If unknown person was detected then alert will send to authorized user and Alarm will ring.
 
-into two parts: face detection and face recognition. If unknown person was 
-
-detected then alert will send to authorized user and Alarm will ring.
 
 ![image](https://github.com/Matin3230/Smart-Home-Surveilance-System-Using-AI/assets/85051013/12283f71-f8da-4d9a-9ec5-6a5606641062)
+
 
 How to run this project ?
 
@@ -22,9 +18,11 @@ ii. Download Install vgg_face_weights library (if needed)
 
 iii. Install all dependecies (libraries)
 
-iv. Run File index.py is to create the dataset and train the model at the same time.
+iv. Run File face_taker.py  to create the dataset.
 
-v. Model data is trained and to validate the person is from home or not run file multithreading.py
+v. Then Run File face_train.py to train the model.
+
+vi. Model data is trained and to validate the person is from home or not run file face_recognizer.py
 
 
 
